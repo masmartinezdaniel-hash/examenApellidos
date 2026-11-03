@@ -7,5 +7,7 @@ git remote add origin https://github.com/masmartinedaniel-has/examenApellido.git
 git push -u origin master
 mkdir prog si bbdd
 touch prog/index.php
+cd si
+cp ../prog/index.php ../bbdd/consultas.sql
 
 
